@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://medium.com/@LazyGarfield1" target="_blank"><img src="https://img.shields.io/twitter/follow/vinithA1414?logo=twitter&style=for-the-badge" alt="vinith" /></a> </p>
 
-- 🌱 I’m looking for Job role in **SOC Analyst L1**
+- 🌱 I’m looking for Job role in **CyberSecurity**
 
 - 👨‍💻 Check out my portfolio site at [vulnushunter](https://vulnushunter.github.io/Portfolio)
 
