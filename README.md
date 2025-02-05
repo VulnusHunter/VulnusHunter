@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Vinith</h1>
+<h1 align="center">Hi 👋, Im Vinith</h1>
 <h3 align="center">I am a Cybersecurity Enthusiast.</h3>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2owdnE2ejd0ajJhaWQ2NjY4a2doYjR3OTNtMWhoN3V2Z3Fhejl5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="gif" width="300" align="right">
 
