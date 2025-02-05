@@ -6,7 +6,7 @@
 
 - 🌱 I’m looking for Job role in **SOC Analyst L1**
 
-- 👨‍💻 Check out my portfolio site at [tech-n0.github.io](https://vulnushunter.github.io/Portfolio)
+- 👨‍💻 Check out my portfolio site at [vulnushunter](https://vulnushunter.github.io/Portfolio)
 
 - 📝 I regularly write blog on [medium](https://medium.com/@LazyGarfield1)
 
