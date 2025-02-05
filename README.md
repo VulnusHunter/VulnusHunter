@@ -1,26 +1,54 @@
-<h1 align="center">Hi 👋, I'm Vinith</h1>
-<h3 align="center">A passionate CyberSecurity Enthusiast from India</h3>
+[![MasterHead](https://camo.githubusercontent.com/a99c01b32f7f9257ff5830e997aa1e4251013f86ded3fbbdf692ffe9de11da65/68747470733a2f2f6769746875622e626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30362f4769744875622d4275672d426f756e74795f666f722d736f6369616c2e706e673f726573697a653d31383030253243363330)](https://vulnushunter.github.io/Portfolio/)
+<h1 align="center">Hi 👋, Vinith</h1>
+<h3 align="center">I am a Cybersecurity Student.</h3>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2owdnE2ejd0ajJhaWQ2NjY4a2doYjR3OTNtMWhoN3V2Z3Fhejl5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="gif" width="300" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdasdasd&label=Profile%20views&color=0e75b6&style=flat" alt="sdasdasd" /> </p>
+<p align="left"> <a href="https://medium.com/@LazyGarfield1" target="_blank"><img src="https://img.shields.io/twitter/follow/vinithA1414?logo=twitter&style=for-the-badge" alt="vinith" /></a> </p>
 
-- 🌱 I’m currently learning **asd**
+- 🌱 I’m looking for Job role in **SOC Analyst L1**
 
+- 👨‍💻 Check out my portfolio site at [tech-n0.github.io](https://vulnushunter.github.io/Portfolio)
 
-- 👨‍💻 All of my projects are available at [dasdadas](dasdadas)
+- 📝 I regularly write blog on [medium](https://medium.com/@LazyGarfield1)
 
-- 📝 I regularly write articles on medium[LazyGarfield](asd)
+- 💬 Ask me about **Cybersecurity**
 
-- 💬 Ask me about **CyberSecurity**
-
-- 📫 How to reach me **asd**
-
-- ⚡ Fun fact ****
+- ⚡ Fun fact **I-Did-This**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/14vinith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dasds" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@LazyGarfield1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sadasd" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/14vinith/" target="_blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="ln" height="30" width="40" /></a>
+<a href="https://medium.com/@LazyGarfield1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vinith" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 align="left">Skills:</h3>
+
+<h4 align="left">Scripting: &nbsp;&nbsp;
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" style="vertical-align: middle;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="vertical-align: middle;"/>
+</h4>
+
+<h4 align="left">OS: &nbsp;&nbsp;
+        <img src="https://pentagram-production.imgix.net/ea053844-c063-4130-9425-4a193f82e1e3/ps_windows_01.jpg?rect=67%2C364%2C1665%2C1040&w=880&fit=crop&fm=jpg&q=70&auto=format&h=548" alt="azure" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</h4>
+
+<h4 align="left">SOC:&nbsp;&nbsp;
+    <img src="https://bulutistan.com/blog/wp-content/uploads/2023/09/elk-stack-nedir.jpeg" alt="elk" width="40" height="40" style="vertical-align: middle;"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMY4TDCWSeYc7qDbKu-VvxBYsMXwY3MKfCw&s" alt="snort" width="40" height="40" style="vertical-align: middle;"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfTZ2Pry9zZMRkPhlX390F5oKio0m-dRjM0w&s" alt="pfsense" width="40" height="40" style="vertical-align: middle;"/>
+    <img src="https://cdn.invicti.com/statics/img/techdoc/company-logos/splunk-logo.png" alt="splunk" width="40" height="40" style="vertical-align: middle;"/>
+</h4>
+
+<h4 align="left">Misc: &nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</h4>
+
+
+
