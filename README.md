@@ -1,6 +1,5 @@
-[![MasterHead](https://camo.githubusercontent.com/a99c01b32f7f9257ff5830e997aa1e4251013f86ded3fbbdf692ffe9de11da65/68747470733a2f2f6769746875622e626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30362f4769744875622d4275672d426f756e74795f666f722d736f6369616c2e706e673f726573697a653d31383030253243363330)](https://vulnushunter.github.io/Portfolio/)
 <h1 align="center">Hi 👋, Vinith</h1>
-<h3 align="center">I am a Cybersecurity Student.</h3>
+<h3 align="center">I am a Cybersecurity Enthusiast.</h3>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2owdnE2ejd0ajJhaWQ2NjY4a2doYjR3OTNtMWhoN3V2Z3Fhejl5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="gif" width="300" align="right">
 
 <p align="left"> <a href="https://medium.com/@LazyGarfield1" target="_blank"><img src="https://img.shields.io/twitter/follow/vinithA1414?logo=twitter&style=for-the-badge" alt="vinith" /></a> </p>
