@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Cybersecurity**
 
-- ⚡ Fun fact **I-Know-Binary**
+- ⚡ Fun fact **I-Know-how- to talk-with-machines**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
